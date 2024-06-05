@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>La Mudanza</title>
+  </head>
+  <style>
+    a {
+      background-color: #6A266F;
+      color: rgb(255, 174, 0);
+    }
+    ol{
+      background-color: aquamarine;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: medium;
+    }
+    h1{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: #423075;
+      color: #A6A938;
+    }
+  </style>
+  <body style="background-color:#f5fdff">
+<h1 ALIGN="CENTER">La mudanza perfecta</h1>
+<P><A NAME="inicio"></A>
+<h2 ALIGN="CENTER">¿Te vas a mudar y no sabes por donde empezar? Aqui te ayudamos.</h2>
+<p ALIGN="CENTER">A continuación le sugerimos unso sencillos pasos para que este proceso sea los mas facil para usted</p>
+<OL type="1">
+  <LI>Encuentra un nuevo lugrar donde vivir antes de que acabe el plazo de alquiler actual.</LI>
+  <p ALIGN="CENTER">En la siguiente tabla puedes encontrar los pisos que más se adapten a sus necesidades.</p>
+  <table BORDER="4"ALIGN="CENTER" style="background-color:#95b3bb" >
+    <tr><th>Portal</th><th>Link</th><th>Comentarios</th></tr>
+    <tr><td>Idealista</td><td><A HREF="http://www.idealista.com/">Ir</A></td><td>Mucha oferta y demanda. Cuidado con posibles anuncios fraudulentos</td></tr>
+    <tr><td>Fotocasa</td><td><A HREF="http://www.fotocasa.com/">Ir</A></td><td>Menos oferta con precios algo más altos. Mayor seguridad.</td></tr>
+    <tr><td>Inmobiliarias Monzón</td><td><a href="https://tecnun365-my.sharepoint.com/:i:/g/personal/dmonzonm_ceit_es/ETFecAoiJYpMskDo3tRMQksBnPxMt39uLTpp2R_ZIGRyAw?e=vRV1cU" target="_blank">
+      Ir
+    </a></td><td>Trato personal y buena realción calidad precio</td></tr>
+    </table>
+  <LI>Revisa el contrato de alquiler para asegurar que cumple las condiciones de devolución de la fianza.</LI>
+  <Li>Una vez este listo para hacer la mudanza, le sugerimos la siguiente check list de tramites e imprescindibles para facilitar el proceso y que no se le olvide nada.</Li>
+    <ol type="i">
+      <li>Contratación de furgoneta o equipo de mudanzas.</li>
+      <li>Recuerda que te corresponde un dia de vacaciones al año para la mudanza.</li>
+      <li>En los supermercados suelen tener cajas para ayudarte al empaquetado.</li>
+      <li>Aprovecha para tirar lo que no necesitas.</li>
+      <li>Realiza los tramites de empadronamiento en tu nuevo barrio.</li>
+    </ol>
+  </OL>
+
+    <A HREF="#inicio">Ir al inicio</A>
+  </body>
+</html>
